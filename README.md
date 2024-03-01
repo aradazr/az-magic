@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+this priject is a fun magic app with simple math.
 
-This project is a starting point for a Flutter application.
+i hope you enjoy it.
 
-A few resources to get you started if this is your first Flutter project:
+you can improve the ui by yourself and then show it to me.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+also this is my first project and i hope you like it,
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks a lot for testing it.
+
+Good Bye .
