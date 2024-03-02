@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-this priject is a fun magic app with simple math.
+this project is a fun magic app with simple math.
 
 i hope you enjoy it.
 
